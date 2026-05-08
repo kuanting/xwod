@@ -1,4 +1,4 @@
-# XWOD — Extreme Weather Object Detection
+# XWOD — eXtreme Weather Object Detection
 
 Reproducibility code for the **XWOD** benchmark, a real-world traffic
 object-detection benchmark for extreme weather. XWOD ships **10,010
