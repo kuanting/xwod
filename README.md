@@ -392,21 +392,7 @@ from YOLO label area, not human-annotated. Use at your own risk.
 
 ## Citation
 
-The paper is currently anonymized (NeurIPS 2026 submission). Once
-de-anonymized, please cite:
-
-```bibtex
-@inproceedings{xwod2026,
-  title     = {XWOD: A Real-World Benchmark for Object Detection
-               under Extreme Weather Conditions},
-  author    = {Anonymous},
-  booktitle = {Advances in Neural Information Processing Systems
-               (NeurIPS)},
-  year      = {2026}
-}
-```
-
-For now, please cite the Kaggle dataset:
+Our paper is currently uder review. For now, please cite the Kaggle dataset:
 <https://www.kaggle.com/datasets/kuantinglai/exwod>.
 
 ---
