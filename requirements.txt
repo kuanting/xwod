@@ -1,0 +1,18 @@
+# Core (XWOD-Det / XWOD-Gen YOLO paths)
+ultralytics>=8.3
+pandas
+pyyaml
+pillow
+scikit-learn
+scipy
+matplotlib
+
+# XWOD-LLM-WC API backends
+python-dotenv
+anthropic
+openai
+google-genai
+
+# Optional: HuggingFace VLM backend for eval_llm_wc.py --backend hf
+# transformers>=4.45
+# accelerate

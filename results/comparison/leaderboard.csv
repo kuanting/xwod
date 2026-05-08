@@ -1,0 +1,5 @@
+label,model,csv,wc_n,wc_accuracy,wc_macro_f1
+google/gemini-3.1-pro-preview,gemini-3.1-pro-preview,results/google_gemini-3.1-pro-preview_20260429-121759.csv,700,0.7571428571428571,0.7584683486157903
+google/gemini-3.1-flash-lite-preview,gemini-3.1-flash-lite-preview,results/google_gemini-3.1-flash-lite-preview_20260429-111845.csv,700,0.75,0.7500322262688759
+claude-opus-4-7,claude-opus-4-7,results/mllm_opus4.7.csv,700,0.7471428571428571,0.7445714615389808
+openai/gpt-5.5,gpt-5.5,results/openai_gpt-5.5_20260504-143352.csv,700,0.7185714285714285,0.7220823461544414

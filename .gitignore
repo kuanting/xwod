@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.envrc
+
+# Ultralytics / YOLO downloads and runs
+*.pt
+runs/
+
+# Local result artifacts that aren't paper figures.
+# (We deliberately keep results/*.csv, results/*.summary.json, and
+#  results/comparison/ — they are the XWOD-LLM-WC artifacts cited in
+#  Table 8 of the paper.)
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtualenvs / IDE
+.venv/
+venv/
+.idea/
+.vscode/
