@@ -22,8 +22,6 @@ scale.
 ## Quick links
 
 - **Dataset (Kaggle):** <https://www.kaggle.com/datasets/kuantinglai/exwod>
-- **Paper:** *XWOD: A Real-World Benchmark for Object Detection under
-  Extreme Weather Conditions* (NeurIPS 2026 submission)
 - **License:** [CC BY-NC 4.0](LICENSE) (research / non-commercial use)
 
 > The Kaggle dataset slug is `kuantinglai/exwod` because Kaggle requires
